@@ -1,4 +1,4 @@
-# 🎮 Nome do Jogo
+# 🎮 desenvolva seus jogos seguindo uma ide com base em mapeação e javaOO
 
 Jogo desenvolvido em **Java** com foco em lógica, desempenho e organização de código.  
 Este projeto foi criado com o objetivo de praticar conceitos fundamentais da linguagem, estruturação de classes e boas práticas de desenvolvimento.
